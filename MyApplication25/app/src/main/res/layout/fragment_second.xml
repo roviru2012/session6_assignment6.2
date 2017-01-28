@@ -1,0 +1,17 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#33f"
+    android:orientation="vertical"
+    tools:context="com.varunkumar.myapplication.FragmentSecond">
+    <TextView
+    android:id="@+id/textview1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:text="No Button Is Selected"
+    android:textColor="#fff"
+    android:textSize="25sp" />
+
+</LinearLayout>
